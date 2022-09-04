@@ -12,7 +12,7 @@ class Cat(Animal):
         print(f"МЯУ! Я {self.name}")
 
 
-class Dod(Animal):
+class Dog(Animal):
     def sound(self):
         super().sound()
         print(f"ГАВ! Я {self.name}")

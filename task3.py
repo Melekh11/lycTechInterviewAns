@@ -1,5 +1,5 @@
 import datetime
-from task3_ans import sort_users
+from task3_ans import sort_users  # ваша готовая функция
 
 # вам нужно отсортировать массив так, чтобы даты выводились по возрастанию
 # возможно вам поможет эта ссылка: https://proproprogs.ru/python_base/sortirovka-sort-i-sorted
